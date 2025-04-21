@@ -1,0 +1,11 @@
+com\example\demo\weatherForecast\Service\HolidayService.class
+com\example\demo\weatherForecast\WeatherForecastApplication.class
+com\example\demo\weatherForecast\Model\WeatherResponse$Main.class
+com\example\demo\weatherForecast\ServiceImpl\WeatherServiceImpl.class
+com\example\demo\weatherForecast\Model\Holiday.class
+com\example\demo\weatherForecast\Model\Weather.class
+com\example\demo\weatherForecast\Service\WeatherService.class
+com\example\demo\weatherForecast\Model\WeatherResponse$WeatherDescription.class
+com\example\demo\weatherForecast\Model\WeatherResponse.class
+com\example\demo\weatherForecast\Controller\WeatherController.class
+com\example\demo\weatherForecast\ServiceImpl\HolidayServiceImpl.class
